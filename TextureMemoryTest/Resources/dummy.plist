@@ -23,13 +23,13 @@
             <key>format</key>
             <integer>2</integer>
             <key>realTextureFileName</key>
-            <string>pvrtc2.pvr.ccz</string>
+            <string>rgba4444fs.pvr.ccz</string>
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:93aaf84800245bbd2aebbba53b5b5094$</string>
+            <string>$TexturePacker:SmartUpdate:211cc88b4cc93bfca92c99b82a12878c$</string>
             <key>textureFileName</key>
-            <string>pvrtc2.pvr.ccz</string>
+            <string>rgba4444fs.pvr.ccz</string>
         </dict>
     </dict>
 </plist>

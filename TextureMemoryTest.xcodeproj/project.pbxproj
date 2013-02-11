@@ -127,6 +127,9 @@
 		5CF3B42016C932ED008F22A4 /* rgba4444.png in Resources */ = {isa = PBXBuildFile; fileRef = 5CF3B41816C932ED008F22A4 /* rgba4444.png */; };
 		5CF3B42116C932ED008F22A4 /* rgba4444fsa.png in Resources */ = {isa = PBXBuildFile; fileRef = 5CF3B41916C932ED008F22A4 /* rgba4444fsa.png */; };
 		5CF3B42216C932ED008F22A4 /* rgba4444fsa.pvr.ccz in Resources */ = {isa = PBXBuildFile; fileRef = 5CF3B41A16C932ED008F22A4 /* rgba4444fsa.pvr.ccz */; };
+		5CF3B42516C93E75008F22A4 /* rgba4444fs.pvr.ccz in Resources */ = {isa = PBXBuildFile; fileRef = 5CF3B42316C93E75008F22A4 /* rgba4444fs.pvr.ccz */; };
+		5CF3B42616C93E75008F22A4 /* rgba5551fs.pvr.ccz in Resources */ = {isa = PBXBuildFile; fileRef = 5CF3B42416C93E75008F22A4 /* rgba5551fs.pvr.ccz */; };
+		5CF3B42816C9402E008F22A4 /* rgba5551fsa.pvr.ccz in Resources */ = {isa = PBXBuildFile; fileRef = 5CF3B42716C9402E008F22A4 /* rgba5551fsa.pvr.ccz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -363,6 +366,9 @@
 		5CF3B41816C932ED008F22A4 /* rgba4444.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rgba4444.png; path = Resources/rgba4444.png; sourceTree = "<group>"; };
 		5CF3B41916C932ED008F22A4 /* rgba4444fsa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rgba4444fsa.png; path = Resources/rgba4444fsa.png; sourceTree = "<group>"; };
 		5CF3B41A16C932ED008F22A4 /* rgba4444fsa.pvr.ccz */ = {isa = PBXFileReference; lastKnownFileType = file; name = rgba4444fsa.pvr.ccz; path = Resources/rgba4444fsa.pvr.ccz; sourceTree = "<group>"; };
+		5CF3B42316C93E75008F22A4 /* rgba4444fs.pvr.ccz */ = {isa = PBXFileReference; lastKnownFileType = file; name = rgba4444fs.pvr.ccz; path = Resources/rgba4444fs.pvr.ccz; sourceTree = "<group>"; };
+		5CF3B42416C93E75008F22A4 /* rgba5551fs.pvr.ccz */ = {isa = PBXFileReference; lastKnownFileType = file; name = rgba5551fs.pvr.ccz; path = Resources/rgba5551fs.pvr.ccz; sourceTree = "<group>"; };
+		5CF3B42716C9402E008F22A4 /* rgba5551fsa.pvr.ccz */ = {isa = PBXFileReference; lastKnownFileType = file; name = rgba5551fsa.pvr.ccz; path = Resources/rgba5551fsa.pvr.ccz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -436,6 +442,9 @@
 		5CF3B2C416C92B5A008F22A4 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				5CF3B42716C9402E008F22A4 /* rgba5551fsa.pvr.ccz */,
+				5CF3B42316C93E75008F22A4 /* rgba4444fs.pvr.ccz */,
+				5CF3B42416C93E75008F22A4 /* rgba5551fs.pvr.ccz */,
 				5CF3B41316C932ED008F22A4 /* original.png */,
 				5CF3B41416C932ED008F22A4 /* pvrtc2.pvr.ccz */,
 				5CF3B41516C932ED008F22A4 /* pvrtc4.pvr.ccz */,
@@ -796,6 +805,9 @@
 				5CF3B42016C932ED008F22A4 /* rgba4444.png in Resources */,
 				5CF3B42116C932ED008F22A4 /* rgba4444fsa.png in Resources */,
 				5CF3B42216C932ED008F22A4 /* rgba4444fsa.pvr.ccz in Resources */,
+				5CF3B42516C93E75008F22A4 /* rgba4444fs.pvr.ccz in Resources */,
+				5CF3B42616C93E75008F22A4 /* rgba5551fs.pvr.ccz in Resources */,
+				5CF3B42816C9402E008F22A4 /* rgba5551fsa.pvr.ccz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

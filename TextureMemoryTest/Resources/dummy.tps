@@ -22,11 +22,11 @@
         <key>dataFormat</key>
         <string>cocos2d</string>
         <key>textureFileName</key>
-        <filename>pvrtc2.pvr.ccz</filename>
+        <filename>rgba4444fs.pvr.ccz</filename>
         <key>flipPVR</key>
         <false/>
         <key>ditherType</key>
-        <enum type="SettingsBase::DitherType">FloydSteinbergAlpha</enum>
+        <enum type="SettingsBase::DitherType">FloydSteinberg</enum>
         <key>backgroundColor</key>
         <uint>0</uint>
         <key>libGdx</key>
@@ -117,7 +117,7 @@
         <key>forceIdenticalLayout</key>
         <false/>
         <key>outputFormat</key>
-        <enum type="SettingsBase::OutputFormat">PVRTC2</enum>
+        <enum type="SettingsBase::OutputFormat">RGBA4444</enum>
         <key>autoAliasEnabled</key>
         <true/>
         <key>trimSpriteNames</key>
